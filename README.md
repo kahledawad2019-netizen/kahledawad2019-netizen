@@ -1,186 +1,315 @@
 <div align="center">
 
-# Khaled Metwalie
+<!-- Animated header wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:7b2ff7&height=220&section=header&text=Khaled%20Metwalie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Pharmacist%20%7C%20Applied%20AI%20Specialist&descSize=18&descAlignY=55&descAlign=50"/>
 
-### Pharmacist · Data Scientist · HealthTech Analyst
+<!-- Animated typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Bridging+Clinical+Expertise+%26+Machine+Intelligence;Building+Predictive+Models+for+Healthcare+%26+Pharma;Turning+Raw+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-kahledawad2019--netizen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kahledawad2019-netizen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-metwalie)
+<br/>
+
+<!-- Animated profile views & badges -->
+<img src="https://komarev.com/ghpvc/?username=kahledawad2019-netizen&label=Profile+Views&color=00b4d8&style=flat-square" alt="profile views"/>
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/kahledawad2019-netizen?style=flat-square&logo=github&color=00b4d8)
+&nbsp;
+![GitHub Stars](https://img.shields.io/github/stars/kahledawad2019-netizen?style=flat-square&logo=github&color=7b2ff7)
+
+<br/><br/>
+
+<!-- Social links with icons -->
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khaled-m-947583172)
+[<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://khaledmetwalie.lovable.app/)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />](mailto:khaledawad@hotmail.com)
 
 </div>
 
 ---
 
-## About Me
+<!-- Animated section divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-I'm a pharmacist turned data scientist — I combine deep healthcare domain expertise with modern machine learning and data engineering to solve real-world problems. My work spans the full pipeline: from designing production-grade databases and building ETL workflows, to training ensemble ML models and deploying them via REST APIs.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-**What drives me:** Turning raw data into actionable insights that matter — whether it's predicting pharmaceutical demand, detecting unauthorized drones, or optimizing hospital operations.
+I'm a **Licensed Pharmacist turned Data Scientist** — combining deep clinical domain expertise with modern machine learning and data engineering to solve real-world healthcare and pharmaceutical problems.
 
----
+My frontline pharmacy experience gave me an intimate understanding of healthcare data — from prescription patterns to medication adherence. Through the **Digilians Digital Pioneers Initiative** (Ministry of Communications & MTC), I transitioned into Applied AI and Data Science.
 
-## Tech Stack
+> **What sets me apart:** I don't just build models — I understand the clinical context behind the data. My solutions are statistically robust AND clinically meaningful.
 
-| Domain | Tools & Technologies |
-|---|---|
-| **Languages** | Python, SQL |
-| **ML / AI** | Scikit-learn, XGBoost, LightGBM, Random Forest, Time-Series Forecasting |
-| **Deep Learning** | PyTorch, CNNs, Multimodal Fusion Networks |
-| **Data Engineering** | SQL Server, Database Design (3NF), ER Modeling, Stored Procedures, Triggers |
-| **Analytics & Viz** | Power BI, Orange 3, Pandas, Matplotlib, Seaborn, Excel Pivot Tables |
-| **Deployment** | FastAPI, Uvicorn, Jupyter Notebooks, REST APIs |
-| **Domain** | Pharmaceutical Analytics, Healthcare (Hospital LOS), Counter-UAV Systems |
+<br/>
 
----
+<div align="center">
 
-## Featured Projects
+| <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> Years Clinical Practice | <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> SKUs Optimized | <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> Adherence Lift | <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> Pharma Data Analyzed |
+|:---:|:---:|:---:|:---:|
+| **2+** | **500+** | **20%** | **6 Years** |
+
+</div>
 
 ---
 
-### HYDRA-Net — Counter-UAV Detection System
+<!-- Animated divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Tech Stack
+
+<!-- Animated skill icons -->
+<div align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br/>
+
+<!-- ML/AI -->
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-2E8B57?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-FF9900?style=for-the-badge&logo=lightgbm&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
+<br/>
+
+<!-- Data & Viz -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4A90D9?style=for-the-badge&logo=seaborn&logoColor=white" />
+
+<br/>
+
+<!-- Tools & Platforms -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
+
+<!-- Healthcare Domain -->
+<img src="https://img.shields.io/badge/Drug_Discovery-00838F?style=for-the-badge&logo=pharmacy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pharmacovigilance-00695C?style=for-the-badge&logo=health&logoColor=white" />
+<img src="https://img.shields.io/badge/Clinical_Research-AD1457?style=for-the-badge&logo=researchgate&logoColor=white" />
+<img src="https://img.shields.io/badge/Biostatistics-6A1B9A?style=for-the-badge&logo=statistics&logoColor=white" />
+
+</div>
+
+---
+
+<!-- Animated divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45"> GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats Card with animation -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kahledawad2019-netizen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7b2ff7&text_color=c9d1d9" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahledawad2019-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kahledawad2019-netizen&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=7b2ff7&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=7b2ff7" width="70%" />
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake-dark.svg" />
+</picture>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kahledawad2019-netizen&bg_color=0d1117&color=00b4d8&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<!-- Animated divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="45"> Featured Projects
+
+---
+
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> HYDRA-Net — Counter-UAV Detection System
+
 > **H**ierarchical **Y**ield-**D**riven **R**esilient **A**sync-fusion Network
 
-A cascaded multimodal architecture for anti-drone detection that achieves **91.9x speedup** at the median through confidence-gated early exit, while retaining full multimodal reasoning for hard cases.
+A cascaded multimodal architecture for anti-drone detection achieving **91.9x speedup** at the median through confidence-gated early exit.
 
-- **90.07% accuracy** on drone distance estimation (1m / 50m / 100m)
-- **97.94% accuracy** among early-exit samples at the 0.95 confidence threshold
-- **1.10ms p50 latency** vs 101ms monolithic baseline
-- Full architecture: Stages 1-3 (RF signals, RGB/IR vision, swarm GNN), async fusion, meta-learned modality gate, explainability module, FastAPI serving
-- 4 Colab notebooks, 14 passing unit tests, comprehensive documentation
+| Metric | Value |
+|---|---|
+| Accuracy (3-class) | **90.07%** |
+| Early-exit Accuracy (τ=0.95) | **97.94%** |
+| p50 Latency | **1.10ms** (vs 101ms baseline) |
+| Speedup | **91.9x** at median |
 
-`Python` `PyTorch` `Computer Vision` `Signal Processing` `FastAPI`
+<details>
+<summary><b>Click to expand details</b></summary>
+
+- Full architecture: Stages 1-3 (RF signals, RGB/IR vision, swarm GNN)
+- Async fusion with meta-learned modality gate
+- Explainability module + FastAPI serving
+- 4 Colab notebooks, 14 passing unit tests
+- Trained on RF-Signals-of-UAVs dataset (128K labeled RF segments)
+
+</details>
+
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/hydra-net)
 
 ---
 
-### Hotel Reservation — Data Mining Project
-> **Predicting Hotel Booking Cancellations with 92.93% Accuracy**
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Hotel Reservation — Data Mining
 
-End-to-end data mining pipeline from database design to a production-ready prediction app, processing **119,208 bookings** with **60+ engineered features** across **8 ML models**.
+> Predicting Hotel Booking Cancellations with **92.93% Accuracy**
 
-- **Part 1:** SQL Server database with 4 normalized tables and 28 insight queries
+| Metric | Value |
+|---|---|
+| Dataset | **119,208 bookings** |
+| Engineered Features | **60+** |
+| ML Models Compared | **8** |
+| Best Accuracy | **92.93%** (Stacking Ensemble) |
+
+<details>
+<summary><b>Click to expand details</b></summary>
+
+- **Part 1:** SQL Server database with 4 normalized tables, 28 insight queries
 - **Part 2:** Python EDA + Orange 3 visual data mining + Power BI dashboard
-- **Part 3:** Stacking Ensemble, XGBoost, LightGBM, HistGB — best accuracy **92.93%**
+- **Part 3:** Stacking Ensemble, XGBoost, LightGBM, HistGB
 
-`Python` `SQL Server` `XGBoost` `Power BI` `Orange 3` `Machine Learning`
+</details>
 
----
-
-### Hospital Length of Stay — Data Mining Project
-> **Complete Data Engineering & Analytics Pipeline (Score: 20/20)**
-
-A two-part integrated pipeline tackling hospital LOS prediction through production-grade database design and exploratory data analysis on **318,438 patient records**.
-
-- **Part 1:** 22 normalized tables, 28 foreign keys, 6 stored procedures, 3 triggers, 10 views, 6 RBAC roles, 21 indexes across 7 functional domains
-- **Part 2:** Python EDA notebook, Orange visual pipeline, Power BI dashboard, 20 EDA questions answered, storytelling report
-
-`Python` `SQL Server` `Power BI` `Orange 3` `Database Design`
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/Hotel-Reservation-DataMining)
 
 ---
 
-### Pharma Demand Forecasting
-> **End-to-End ML Pipeline for Pharmaceutical Drug Sales Forecasting**
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Hospital Length of Stay — Data Mining
 
-A complete forecasting pipeline for **8 ATC-coded drug categories** using time-series analysis and ensemble models, deployed via a production-ready FastAPI REST API.
+> Complete Data Engineering & Analytics Pipeline — **Score: 20/20**
 
-- Multi-granularity data: hourly, daily, weekly, monthly
-- XGBoost + Random Forest with RandomizedSearchCV hyperparameter tuning
-- FastAPI `/predict_sales` endpoint for real-time inference
-- Time-aware train/test split to prevent future data leakage
+| Metric | Value |
+|---|---|
+| Patient Records | **318,438** |
+| Database Tables | **22** (3NF normalized) |
+| Stored Procedures | **6** |
+| RBAC Roles | **6** |
+| EDA Questions Answered | **20** |
 
-`Python` `XGBoost` `FastAPI` `Time-Series` `Forecasting` `REST API`
-
----
-
-### Pharma Sales Analysis Dashboard
-> **600,000+ Medical Sales Transactions Analyzed**
-
-Analysis of pharmaceutical sales data to identify seasonal trends, top-selling drug categories, and weekly demand cycles — demonstrating how pharmacy domain knowledge enhances data analytics.
-
-- Built a **translation layer** mapping ATC codes to business-friendly categories for non-medical stakeholders
-- Discovered strong seasonality: Antihistamines peak in Spring, Asthma/COPD drugs peak in Winter
-- Identified Monday as the highest-volume sales day for staffing optimization
-
-`Excel` `Pivot Tables` `Data Visualization` `Healthcare Analytics`
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/Hospital-LOS-DataMining)
 
 ---
 
-### ML Prediction Project — Body Performance Analysis
-> **Predicting Physical Performance Categories with Machine Learning**
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Pharma Demand Forecasting
 
-Full ML pipeline for analyzing and predicting human body performance from health and fitness metrics — from EDA and feature engineering to interactive Jupyter-based prediction.
+> End-to-End ML Pipeline for Pharmaceutical Drug Sales Forecasting
 
-- Multi-model comparison of classification algorithms
-- Interactive prediction interface in Jupyter Notebook
-- Complete analytical story report and presentation decks
+| Metric | Value |
+|---|---|
+| Drug Categories | **8 ATC-coded** |
+| Data Granularity | Hourly → Daily → Weekly → Monthly |
+| Models | XGBoost + Random Forest |
+| Deployment | FastAPI REST API |
 
-`Python` `Scikit-learn` `Jupyter` `Pandas` `Seaborn`
-
----
-
-### HR & Payroll Analytics Dashboard
-> **Workforce Analytics for Salary, Tax, and Bonus Optimization**
-
-Employee-level workforce analytics exploring salary structures, tax deductions, bonuses, and net salary distribution with actionable insights for payroll management.
-
-- Departmental breakdown across Full-time, Contract, Hourly, and Half-time work types
-- Country-level workforce distribution analysis
-- Extra bonus eligibility identification based on net salary thresholds
-- Hiring trend analysis by year, month, and experience
-
-`Excel` `HR Analytics` `Data Cleaning` `Workforce Segmentation`
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/pharma-demand-forecasting)
 
 ---
 
-### Sales & Profit Analytics Dashboard
-> **Global Sales Performance Analysis with KPI Tracking**
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Pharma Sales Analysis
 
-Comprehensive sales analytics across multiple countries, categories, and products — tracking profitability, customer behavior, and operational efficiency.
+> **600,000+** Medical Sales Transactions — Seasonal Trends & Insights
 
-- 7 KPIs tracked: profit margin, total sales, profit, customer count, order volume, shipping duration, discount value
-- Country, category, and product-level profitability analysis
-- Yearly and monthly sales/profit trend identification
-- Identified products with negative profitability for corrective action
+- Built ATC code → business-friendly category translation layer
+- Antihistamines peak in Spring, Asthma/COPD drugs peak in Winter
+- Monday is the highest-volume sales day
 
-`Excel` `Pivot Tables` `KPI Design` `Customer Segmentation`
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/Pharma-Sales-Analysis)
 
 ---
 
-### PageTurners Bookstore Database
-> **Complete SQL Database for Bookstore Operations**
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> ML Prediction — Body Performance
 
-A full relational database project for PageTurners Bookstore featuring ER diagrams, data integrity constraints, and business queries.
+> Predicting Physical Performance Categories with Machine Learning
 
-- Entity-Relationship diagram design
-- Data integrity constraints and referential integrity
-- Business query implementations
-
-`SQL` `Database Design` `ER Modeling`
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/ml-prediction-project)
 
 ---
 
-## GitHub Stats
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> HR & Payroll Analytics Dashboard
+
+> Workforce Analytics for Salary, Tax, and Bonus Optimization
+
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/HR-payroll-analytics-dashboard)
+
+---
+
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Sales & Profit Analytics Dashboard
+
+> Global Sales Performance Analysis with 7 KPIs Tracked
+
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/sales-analytics-dashboard)
+
+---
+
+### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> PageTurners Bookstore Database
+
+> Complete SQL Database with ER Diagrams, Stored Procedures & Business Queries
+
+[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/PageTurners-Bookstore-Database)
+
+---
+
+<!-- Animated divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## <img src="https://media.giphy.com/media/KzJkL7nCfJupLimvlC/giphy.gif" width="40"> Education
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kahledawad2019-netizen&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kahledawad2019-netizen&layout=compact&theme=radical&hide_border=true)
+| | |
+|---|---|
+| 🎓 | **Bachelor of Pharmacy (B.Pharm)** — Mansoura University (May 2023) |
+| 📊 | GPA: 3.15 (Very Good) |
+| 📚 | Biostatistics, Clinical Research Methodologies |
+| | |
+| 🚀 | **Digilians Digital Pioneers Initiative** — Ministry of Communications & MTC (Dec 2025 – Present) |
+| 🤖 | Applied AI, Machine Learning, Data Mining, Cloud Integration |
 
 </div>
 
 ---
 
-## What I Bring to the Table
+<!-- Animated divider -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-- **Domain + Data:** A rare combination of healthcare/pharmacy expertise with full-stack data science skills
-- **End-to-End Thinking:** I don't just build models — I design databases, engineer features, train models, evaluate rigorously, and deploy via APIs
-- **Production Awareness:** REST endpoints, database normalization, RBAC, stored procedures — not just notebooks
-- **Communication:** Storytelling reports, presentation decks, and dashboards that make insights accessible to non-technical stakeholders
-
----
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4aria/giphy.gif" width="35"> Let's Connect
 
 <div align="center">
 
-*Open to collaborations in HealthTech, Pharma Analytics, and ML Engineering.*
+Open to opportunities in **Healthcare AI**, **Pharmaceutical Data Analytics**, and **Clinical Data Science**.
 
+[<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />](mailto:khaledawad@hotmail.com)
+[<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khaled-m-947583172)
+[<img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen)
+[<img src="https://img.shields.io/badge/🌐_Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://khaledmetwalie.lovable.app/)
+
+</div>
+
+<br/>
+
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00b4d8,100:0d1117&height=120&section=footer" />
+
+<!-- Visitor counter -->
+<div align="center">
+<img src="https://profile-counter.glitch.me/kahledawad2019-netizen/count.svg" />
 </div>
