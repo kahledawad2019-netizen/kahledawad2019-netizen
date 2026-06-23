@@ -1,315 +1,218 @@
+
+<!-- ===================== HERO / BANNER ===================== -->
+<a href="https://khaledmetwalie.lovable.app/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1E3D,100:1E4D8C&height=210&section=header&text=Khaled%20Metwalie&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Pharmacist%20%E2%86%92%20Applied%20AI%20Engineer%20%C2%B7%20Explainable%20ML%20for%20High-Stakes%20Domains&descSize=18&descAlignY=58&descColor=cfe0ff" alt="Khaled Metwalie"/>
+</a>
+
+<!-- ===================== TYPING SVG ===================== -->
 <div align="center">
 
-<!-- Animated header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:7b2ff7&height=220&section=header&text=Khaled%20Metwalie&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Pharmacist%20%7C%20Applied%20AI%20Specialist&descSize=18&descAlignY=55&descAlign=50"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=1E90FF&center=true&vCenter=true&width=760&lines=Clinical+pharmacist+turned+ML+engineer;Explainable+computer+vision+%E2%9C%A6+Grad-CAM%2B%2B;Arabic+speech+%26+emotion+AI+%E2%9C%A6+Wav2Vec2;Multimodal+systems+%E2%9C%A6+RAG+%26+agentic+AI;I+build+AI+where+being+wrong+is+expensive)](https://khaledmetwalie.lovable.app/)
 
-<!-- Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Bridging+Clinical+Expertise+%26+Machine+Intelligence;Building+Predictive+Models+for+Healthcare+%26+Pharma;Turning+Raw+Data+into+Actionable+Insights)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Animated profile views & badges -->
-<img src="https://komarev.com/ghpvc/?username=kahledawad2019-netizen&label=Profile+Views&color=00b4d8&style=flat-square" alt="profile views"/>
-&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/kahledawad2019-netizen?style=flat-square&logo=github&color=00b4d8)
-&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/kahledawad2019-netizen?style=flat-square&logo=github&color=7b2ff7)
-
-<br/><br/>
-
-<!-- Social links with icons -->
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khaled-m-947583172)
-[<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://khaledmetwalie.lovable.app/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />](mailto:khaledawad@hotmail.com)
+<!-- ===================== SOCIAL / CONTACT ===================== -->
+<a href="https://khaledmetwalie.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-0F1E3D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/khaled-m-947583172"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:khaledawad@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=kahledawad2019-netizen&label=Profile%20views&color=1E4D8C&style=for-the-badge" alt="views"/>
 
 </div>
 
 ---
 
-<!-- Animated section divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## 🧭 About
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+```yaml
+name:        Khaled Metwalie
+role:        Applied AI / Machine Learning Engineer
+edge:        Licensed clinical pharmacist → builds explainable, high-stakes ML
+based_in:    Mansoura, Egypt  🇪🇬
+program:     Data Analytics & Applied AI — EUI / Digital Egypt Pioneers (DEPI)
+prior:       B.Pharm, Mansoura University (licensed pharmacist)
+languages:   Arabic (native) · English (professional)
+i_build:     explainable computer vision · Arabic speech AI · multimodal & agentic systems
+domains:     medical · defense · energy · manufacturing · education
+the_thread:  AI for problems where errors are costly — and models must explain themselves
+```
 
-I'm a **Licensed Pharmacist turned Data Scientist** — combining deep clinical domain expertise with modern machine learning and data engineering to solve real-world healthcare and pharmaceutical problems.
+I came to machine learning from **clinical pharmacy**, a field where a wrong answer isn't an abstraction — it reaches a real patient. That instinct now defines how I build AI: in serious domains, a model has to be **right *and* able to justify why**.
 
-My frontline pharmacy experience gave me an intimate understanding of healthcare data — from prescription patterns to medication adherence. Through the **Digilians Digital Pioneers Initiative** (Ministry of Communications & MTC), I transitioned into Applied AI and Data Science.
+So I build exactly that. My work spans an explainable brain-tumor MRI classifier, the Arabic speech-emotion engine inside a multimodal interview-coaching app, a multi-sensor counter-UAV detection pipeline, and forecasting agents for petroleum production. The common thread isn't a single industry — it's that **I build AI for high-stakes problems and make the systems accountable for their decisions**.
 
-> **What sets me apart:** I don't just build models — I understand the clinical context behind the data. My solutions are statistically robust AND clinically meaningful.
+I work in Arabic and English, and I care especially about **Arabic-language speech and NLP** — an area the field has under-served.
 
-<br/>
+---
+
+## 🔭 What I'm working on now
+
+- 🎙️ **Multimodal interview-practice platform (graduation project)** — I own the **speech-emotion-recognition (SER)** branch: fine-tuning **Wav2Vec2** on the Arabic **BAVED** corpus for 3-class arousal detection (Low / Neutral / High), with a **BiLSTM** baseline for comparison.
+- 🤖 **AI Learning Assistant** — a multi-agent, retrieval-augmented (**RAG**) tutor that answers strictly from course material instead of the open internet.
+- ✍️ **Writing up my work** — short technical posts on the decisions behind my projects (this is how I document findings — applied, not peer-reviewed).
+
+---
+
+## 🛠️ Tech stack
+
+> Reflects shipped work. Tools I'm actively maturing toward production (Docker, cloud, MLOps) are deliberately left off until a deployed artifact backs them — I list only what I can show.
+
+**Languages & core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Deep learning & ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Computer vision & explainable AI**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00BFFF?style=flat-square&logo=yolo&logoColor=white)
+![EfficientNet](https://img.shields.io/badge/EfficientNet-512BD4?style=flat-square)
+![Xception](https://img.shields.io/badge/Xception-6706CE?style=flat-square)
+![Grad-CAM++](https://img.shields.io/badge/Grad--CAM%2B%2B-explainable%20AI-2E7D32?style=flat-square)
+
+**NLP, speech & LLMs**
+
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![Wav2Vec2](https://img.shields.io/badge/Wav2Vec2-EE4C2C?style=flat-square)
+![HuBERT](https://img.shields.io/badge/HuBERT-3B5998?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-multi--agent-FF8C00?style=flat-square)
+
+**Backend, data & tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured projects
+
+> Each project links to a full case study + demo + repo once those exist. Fill `[add your real number]` from your notebooks — real metrics only.
+
+### 🧠 Explainable Brain-Tumor MRI Classification
+A multi-class brain-tumor classifier built so clinicians can **see why** it decides what it decides.
+
+- **Problem.** A classifier that outputs only a label (`glioma: 0.92`) is clinically untrustworthy — adoption in medicine depends on *interpretability*, not just accuracy.
+- **Approach & key decisions.** Trained CNN classifiers with **EfficientNet** and **Xception** backbones on brain-MRI data, then layered **Grad-CAM and Grad-CAM++** to produce heatmaps showing which regions drove each prediction, plus a **tumor-geometry analysis** module to quantify region characteristics. Organized into a multi-phase, production-oriented codebase, with an HTML technical presentation and a defense slide deck.
+- **Stack.** TensorFlow · Keras · EfficientNet · Xception · OpenCV · Grad-CAM/Grad-CAM++ · Python
+- **Results.** Multi-class classification at **[add accuracy / macro-F1]** on a held-out set; Grad-CAM++ overlays as clinician-readable evidence.
+- **Next.** Live demo (upload MRI → prediction + heatmap on a Gradio / Hugging Face Space), dataset card + license note.
+- 🔗 `[repo]` · `[demo]`
+
+### 🎙️ Arabic Speech-Emotion Recognition — Interview Coach
+The voice-emotion engine of a multimodal interview-practice app, tuned for **Arabic** speakers.
+
+- **Problem.** Interview-coaching tools are English-centric and ignore *how* something is said. Arabic speakers get no feedback on vocal delivery — a real gap for MENA job-seekers.
+- **Approach & key decisions.** Owned the **SER branch**: fine-tuned **Wav2Vec2** (variants: `wav2vec2-base`, **XLS-R-300M**, Arabic XLSR) on the **BAVED** Arabic dataset for 3-class emotion (Low / Neutral / High), with a **BiLSTM** replication baseline for a fair transformer-vs-recurrent comparison. Built a reproducible Colab/Drive pipeline across four notebooks, including corrected dataset splits and resolved training bugs.
+- **Stack.** PyTorch · 🤗 Transformers · Wav2Vec2 / XLS-R · BiLSTM · audio processing · Colab
+- **Results.** 3-class Arabic emotion classification at **[add accuracy / macro-F1]**; documented transformer vs. BiLSTM trade-offs.
+- **Next.** Mini-demo (record/upload audio → emotion); a short write-up on fine-tuning Wav2Vec2 for Arabic.
+- 🔗 `[repo]` · `[demo]`
+
+### 🛰️ HYDRA-Net — Counter-UAV Detection
+A multi-stage pipeline that fuses **radio, visual, and thermal** signals to detect drones.
+
+- **Problem.** No single sensor reliably detects small UAVs across conditions — RF misses passive drones, cameras fail at night, IR struggles in clutter. Detection is fundamentally a *fusion* problem.
+- **Approach & key decisions.** A multi-stage cascade fusing **RF + RGB + IR**, with a **SwarmGNN** stage to reason about multiple coordinated targets. Presented in competition settings.
+- **Stack.** Deep learning · multi-sensor fusion · graph neural networks · Python
+- **Next.** Architecture diagram in the README; state your specific contribution vs. the team. **[VERIFY scope/role + whether publishable]**
+- 🔗 `[repo or redacted write-up]`
+
+### 🛢️ SubsurfaceGPT / ForecastAgent — Petroleum Production Forecasting
+Agentic forecasting of oil-well production combining **physics and deep learning**.
+
+- **Problem.** Production forecasting traditionally relies on manual decline-curve fitting — slow and hard to scale across wells.
+- **Approach & key decisions.** Built forecasting on the public **Volve** field dataset using **Arps decline-curve** modeling, with a **Temporal Fusion Transformer** for learned forecasts, framed as an *agent* that automates the analysis workflow.
+- **Stack.** Time-series · Arps equations · Temporal Fusion Transformer · agentic orchestration · Python
+- **Next.** Confirm which components are implemented vs. planned. **[VERIFY status]**
+- 🔗 `[repo]`
+
+### 🧵 Fabric Defect Detection
+Real-time visual **quality control** for textiles.
+
+- **Problem.** Manual fabric inspection is slow, inconsistent, and misses subtle defects at production speed.
+- **Approach.** A **YOLO**-based object-detection pipeline for defect localization, on a **Roboflow** dataset workflow.
+- **Stack.** YOLO · Roboflow · OpenCV · Python
+- **Results.** **[add mAP]**; note inference speed.
+- 🔗 `[repo]`
+
+### 🤖 AI Learning Assistant — Multi-Agent RAG Tutor
+A tutor that answers from **your** course material, not the open internet.
+
+- **Problem.** General chatbots hallucinate and aren't grounded in a specific curriculum.
+- **Approach.** A multi-agent **RAG** architecture that retrieves from course content before answering.
+- **Stack.** RAG · multi-agent design · LLMs · vector retrieval **[VERIFY framework: LangChain / LlamaIndex / etc.]**
+- **Next.** Ship a minimal working slice (one document set + live Q&A).
+- 🔗 `[repo]`
+
+---
+
+### 📂 More projects
+
+- **Arabic Voice Performance Analysis** — Wav2Vec2 / HuBERT + Faster-Whisper with a **FastAPI** backend (model wrapped behind an API).
+- **Disaster-Tweet Classification** — LSTM / BiLSTM NLP, a full 57-cell notebook with real training results.
+- **Jordanian Tourism Image Dataset** — 30 locations / 150 images via a **Cloudinary** ingestion pipeline (data-engineering work).
+- **Power BI analytics & Excel dashboards** — PL-300-level BI and KPI reporting (the data-analyst half of the profile).
+
+---
+
+## 🔬 Research interests
+
+- **Explainable AI for safety-critical domains** — making medical and industrial models accountable.
+- **Arabic speech & NLP** — emotion recognition, ASR, and Arabic-first language systems.
+- **Multimodal learning** — fusing speech, vision, and text.
+- **Agentic & RAG systems** for technical and scientific workflows.
+
+> Applied, project-driven research. No peer-reviewed publications yet — technical write-ups and competition work are how I document findings today.
+
+---
+
+## 🎓 Education & certifications
+
+- **Data Analytics & Applied AI** — Egyptian University of Informatics (EUI) / Digital Egypt Pioneers Initiative (DEPI), [year]
+- **Bachelor of Pharmacy** — Mansoura University (licensed pharmacist)
+- **Microsoft PL-300: Power BI Data Analyst** — [status: in progress / certified — update] **[VERIFY]**
+
+---
+
+## 📊 GitHub stats
 
 <div align="center">
 
-| <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> Years Clinical Practice | <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> SKUs Optimized | <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> Adherence Lift | <img src="https://media.giphy.com/media/juua9i2c2fxA6IjNtP/giphy.gif" width="25"/> Pharma Data Analyzed |
-|:---:|:---:|:---:|:---:|
-| **2+** | **500+** | **20%** | **6 Years** |
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kahledawad2019-netizen&show_icons=true&theme=react&hide_border=true&bg_color=0F1E3D&title_color=cfe0ff&icon_color=1E90FF&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=kahledawad2019-netizen&theme=react&hide_border=true&background=0F1E3D&ring=1E90FF&fire=1E90FF&currStreakLabel=cfe0ff" alt="streak"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahledawad2019-netizen&layout=compact&theme=react&hide_border=true&bg_color=0F1E3D&title_color=cfe0ff&langs_count=8" alt="top langs"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kahledawad2019-netizen&theme=react-dark&bg_color=0F1E3D&color=cfe0ff&line=1E90FF&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kahledawad2019-netizen&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
 ---
 
-<!-- Animated divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+## 🤝 Let's connect
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Tech Stack
-
-<!-- Animated skill icons -->
-<div align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
-<br/>
-
-<!-- ML/AI -->
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-2E8B57?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/LightGBM-FF9900?style=for-the-badge&logo=lightgbm&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-<br/>
-
-<!-- Data & Viz -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4A90D9?style=for-the-badge&logo=seaborn&logoColor=white" />
-
-<br/>
-
-<!-- Tools & Platforms -->
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/>
-
-<!-- Healthcare Domain -->
-<img src="https://img.shields.io/badge/Drug_Discovery-00838F?style=for-the-badge&logo=pharmacy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pharmacovigilance-00695C?style=for-the-badge&logo=health&logoColor=white" />
-<img src="https://img.shields.io/badge/Clinical_Research-AD1457?style=for-the-badge&logo=researchgate&logoColor=white" />
-<img src="https://img.shields.io/badge/Biostatistics-6A1B9A?style=for-the-badge&logo=statistics&logoColor=white" />
-
-</div>
-
----
-
-<!-- Animated divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="45"> GitHub Analytics
+I'm open to **applied ML / computer-vision / AI-engineering** roles (remote or relocation) and to collaborations on explainable, high-stakes ML and Arabic speech/NLP.
 
 <div align="center">
 
-<!-- GitHub Stats Card with animation -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kahledawad2019-netizen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7b2ff7&text_color=c9d1d9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahledawad2019-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
+[![Portfolio](https://img.shields.io/badge/Visit_my_Portfolio-0F1E3D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://khaledmetwalie.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-m-947583172)
+[![Email](https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledawad@hotmail.com)
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E4D8C,100:0F1E3D&height=120&section=footer" alt="footer"/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kahledawad2019-netizen&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=7b2ff7&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=7b2ff7" width="70%" />
-
-<br/>
-
-<!-- Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake-dark.svg" />
-</picture>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kahledawad2019-netizen&bg_color=0d1117&color=00b4d8&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" width="95%" />
-
-</div>
-
----
-
-<!-- Animated divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="45"> Featured Projects
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> HYDRA-Net — Counter-UAV Detection System
-
-> **H**ierarchical **Y**ield-**D**riven **R**esilient **A**sync-fusion Network
-
-A cascaded multimodal architecture for anti-drone detection achieving **91.9x speedup** at the median through confidence-gated early exit.
-
-| Metric | Value |
-|---|---|
-| Accuracy (3-class) | **90.07%** |
-| Early-exit Accuracy (τ=0.95) | **97.94%** |
-| p50 Latency | **1.10ms** (vs 101ms baseline) |
-| Speedup | **91.9x** at median |
-
-<details>
-<summary><b>Click to expand details</b></summary>
-
-- Full architecture: Stages 1-3 (RF signals, RGB/IR vision, swarm GNN)
-- Async fusion with meta-learned modality gate
-- Explainability module + FastAPI serving
-- 4 Colab notebooks, 14 passing unit tests
-- Trained on RF-Signals-of-UAVs dataset (128K labeled RF segments)
-
-</details>
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/hydra-net)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Hotel Reservation — Data Mining
-
-> Predicting Hotel Booking Cancellations with **92.93% Accuracy**
-
-| Metric | Value |
-|---|---|
-| Dataset | **119,208 bookings** |
-| Engineered Features | **60+** |
-| ML Models Compared | **8** |
-| Best Accuracy | **92.93%** (Stacking Ensemble) |
-
-<details>
-<summary><b>Click to expand details</b></summary>
-
-- **Part 1:** SQL Server database with 4 normalized tables, 28 insight queries
-- **Part 2:** Python EDA + Orange 3 visual data mining + Power BI dashboard
-- **Part 3:** Stacking Ensemble, XGBoost, LightGBM, HistGB
-
-</details>
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/Hotel-Reservation-DataMining)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Hospital Length of Stay — Data Mining
-
-> Complete Data Engineering & Analytics Pipeline — **Score: 20/20**
-
-| Metric | Value |
-|---|---|
-| Patient Records | **318,438** |
-| Database Tables | **22** (3NF normalized) |
-| Stored Procedures | **6** |
-| RBAC Roles | **6** |
-| EDA Questions Answered | **20** |
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/Hospital-LOS-DataMining)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Pharma Demand Forecasting
-
-> End-to-End ML Pipeline for Pharmaceutical Drug Sales Forecasting
-
-| Metric | Value |
-|---|---|
-| Drug Categories | **8 ATC-coded** |
-| Data Granularity | Hourly → Daily → Weekly → Monthly |
-| Models | XGBoost + Random Forest |
-| Deployment | FastAPI REST API |
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/pharma-demand-forecasting)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Pharma Sales Analysis
-
-> **600,000+** Medical Sales Transactions — Seasonal Trends & Insights
-
-- Built ATC code → business-friendly category translation layer
-- Antihistamines peak in Spring, Asthma/COPD drugs peak in Winter
-- Monday is the highest-volume sales day
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/Pharma-Sales-Analysis)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> ML Prediction — Body Performance
-
-> Predicting Physical Performance Categories with Machine Learning
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/ml-prediction-project)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> HR & Payroll Analytics Dashboard
-
-> Workforce Analytics for Salary, Tax, and Bonus Optimization
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/HR-payroll-analytics-dashboard)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> Sales & Profit Analytics Dashboard
-
-> Global Sales Performance Analysis with 7 KPIs Tracked
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/sales-analytics-dashboard)
-
----
-
-### <img src="https://media.giphy.com/media/W0tO9MFqzSKhIjO9b7/giphy.gif" width="25"/> PageTurners Bookstore Database
-
-> Complete SQL Database with ER Diagrams, Stored Procedures & Business Queries
-
-[<img src="https://img.shields.io/badge/🔵_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen/PageTurners-Bookstore-Database)
-
----
-
-<!-- Animated divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## <img src="https://media.giphy.com/media/KzJkL7nCfJupLimvlC/giphy.gif" width="40"> Education
-
-<div align="center">
-
-| | |
-|---|---|
-| 🎓 | **Bachelor of Pharmacy (B.Pharm)** — Mansoura University (May 2023) |
-| 📊 | GPA: 3.15 (Very Good) |
-| 📚 | Biostatistics, Clinical Research Methodologies |
-| | |
-| 🚀 | **Digilians Digital Pioneers Initiative** — Ministry of Communications & MTC (Dec 2025 – Present) |
-| 🤖 | Applied AI, Machine Learning, Data Mining, Cloud Integration |
-
-</div>
-
----
-
-<!-- Animated divider -->
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4aria/giphy.gif" width="35"> Let's Connect
-
-<div align="center">
-
-Open to opportunities in **Healthcare AI**, **Pharmaceutical Data Analytics**, and **Clinical Data Science**.
-
-[<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />](mailto:khaledawad@hotmail.com)
-[<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/khaled-m-947583172)
-[<img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/kahledawad2019-netizen)
-[<img src="https://img.shields.io/badge/🌐_Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />](https://khaledmetwalie.lovable.app/)
-
-</div>
-
-<br/>
-
-<!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00b4d8,100:0d1117&height=120&section=footer" />
-
-<!-- Visitor counter -->
-<div align="center">
-<img src="https://profile-counter.glitch.me/kahledawad2019-netizen/count.svg" />
 </div>
