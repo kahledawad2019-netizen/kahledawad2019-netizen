@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Khaled Metwalie — Data and AI Professional</title>
+  <desc id="desc">A restrained navy and cyan data network linking healthcare, retrieval, computer vision, and analytics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071428"/><stop offset="0.58" stop-color="#0b2343"/><stop offset="1" stop-color="#063b54"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#38bdf8" stop-opacity=".12"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".75"/><stop offset="1" stop-color="#60a5fa" stop-opacity=".12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .pulse{animation:pulse 3.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .flow{stroke-dasharray:10 18;animation:flow 7s linear infinite}
+      @keyframes pulse{0%,100%{opacity:.45;transform:scale(.84)}50%{opacity:1;transform:scale(1.12)}}
+      @keyframes flow{to{stroke-dashoffset:-112}}
+      @media (prefers-reduced-motion:reduce){.pulse,.flow{animation:none}}
+      text{font-family:Segoe UI,Inter,Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path class="flow" d="M38 270 C190 120 300 315 460 165 S760 65 1165 250"/>
+    <path opacity=".4" d="M75 70 C260 215 350 30 560 185 S900 315 1140 70"/>
+  </g>
+  <g fill="#22d3ee" filter="url(#glow)">
+    <circle class="pulse" cx="83" cy="257" r="6"/><circle class="pulse" cx="315" cy="251" r="5" style="animation-delay:.7s"/>
+    <circle class="pulse" cx="475" cy="151" r="7" style="animation-delay:1.2s"/><circle class="pulse" cx="720" cy="105" r="5" style="animation-delay:1.8s"/>
+    <circle class="pulse" cx="938" cy="173" r="6" style="animation-delay:2.4s"/><circle class="pulse" cx="1138" cy="242" r="5" style="animation-delay:3s"/>
+  </g>
+  <g transform="translate(62 54)">
+    <text x="0" y="0" fill="#67e8f9" font-size="16" font-weight="700" letter-spacing="4">HEALTHCARE INSIGHT × ENGINEERING DISCIPLINE</text>
+    <text x="0" y="72" fill="#f8fafc" font-size="54" font-weight="750">Khaled Metwalie</text>
+    <text x="0" y="116" fill="#bae6fd" font-size="25">Data &amp; AI Professional · Licensed Pharmacist</text>
+    <text x="0" y="171" fill="#cbd5e1" font-size="19">Grounded RAG  ·  Computer Vision  ·  ML Systems  ·  Analytics</text>
+    <rect x="0" y="201" width="614" height="1" fill="#38bdf8" opacity=".55"/>
+    <text x="0" y="236" fill="#94a3b8" font-size="17">Building reliable systems with measurable evidence—not just demos.</text>
+  </g>
+  <g transform="translate(950 58)" fill="none" stroke="#67e8f9" stroke-width="3" opacity=".8">
+    <path d="M52 3v40M32 23h40"/><circle cx="52" cy="23" r="34"/>
+    <path d="M18 91c30-24 70-24 100 0s70 24 100 0M18 123c30-24 70-24 100 0s70 24 100 0" opacity=".55"/>
+    <circle cx="18" cy="91" r="5" fill="#22d3ee"/><circle cx="118" cy="91" r="5" fill="#22d3ee"/><circle cx="218" cy="91" r="5" fill="#22d3ee"/>
+  </g>
+</svg>

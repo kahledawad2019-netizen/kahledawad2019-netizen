@@ -1,136 +1,154 @@
-# Khaled Metwalie
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero.svg">
+    <img src="./assets/hero.svg" width="100%" alt="Khaled Metwalie — Data and AI professional and licensed pharmacist building reliable RAG, computer vision, machine-learning, and analytics systems">
+  </picture>
 
-**Data Science · Applied AI · Computer Vision · Healthcare Analytics**
+  <br><br>
 
-Licensed pharmacist turned data scientist. I spent two years behind a pharmacy counter watching
-real decisions reach real patients — a misread interaction, a wrong dose, a stockout on a
-life-saving drug. That is where the standard I hold my models to comes from.
+  [Portfolio](https://khaledmetwalie.lovable.app) · [LinkedIn](https://linkedin.com/in/khaled-m-947583172) · [Email](mailto:khaledawad@hotmail.com)
+</div>
 
-[Portfolio](https://khaledmetwalie.lovable.app/) ·
-[LinkedIn](https://linkedin.com/in/khaled-m-947583172) ·
-[Email](mailto:khaledawad@hotmail.com)
+## Pharmacist turned AI builder
+
+I combine healthcare judgment with end-to-end technical delivery. My work emphasizes grounded retrieval, reproducible evaluation, explainability, testing, and systems that people can actually use.
+
+Open to **AI Engineer, Machine Learning Engineer, Data Scientist, Data Engineer, Data Analyst, and BI** opportunities.
+
+### Evidence at a glance
+
+| GraphRAG platform | Healthcare RAG | Brain MRI AI | Multimodal ML |
+|---|---|---|---|
+| **21,854** vectors · **1,511** graph nodes | **100%** drug recall@5 · **95%** fresh held-out field recall@5 | **94.9%** test accuracy · **0.948** macro F1 | **90.07%** accuracy · **91.9×** median latency reduction |
+
+## Selected systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Digiler AI](https://github.com/kahledawad2019-netizen/Digiler-AI)
+
+Adaptive learning platform combining hybrid retrieval, GraphRAG, multimodal search, student modelling, reinforcement learning, and coordinated AI agents.
+
+- 257 indexed resources and 21,854 vectors
+- 1,511-node / 5,091-edge concept graph
+- 1.00 grounding and citation accuracy across 40 GraphRAG queries
+- 240 passing platform and backend tests
+
+`Python` `GraphRAG` `Qdrant` `FastAPI` `Agents`
+
+</td>
+<td width="50%" valign="top">
+
+### [AdaptiveScan](https://github.com/kahledawad2019-netizen/Mindscan-brain-Tumor)
+
+Explainable brain-MRI classification and localization with EfficientNet-B2, Grad-CAM/Grad-CAM++, independent segmentation, human feedback, and structured reporting.
+
+- 94.9% test accuracy
+- 0.948 macro F1
+- 0.988 macro AUC
+- Leakage-aware image split and production operating point
+
+`PyTorch` `TensorFlow` `FastAPI` `Streamlit` `XAI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [HYDRA-Net](https://github.com/kahledawad2019-netizen/hydra-net)
+
+Cascaded multimodal counter-UAV detection with confidence-gated early exit.
+
+- 90.07% accuracy and 0.9003 macro F1
+- 0.9812 one-vs-rest ROC-AUC
+- 91.9× median latency reduction
+- 14 passing unit tests
+
+`PyTorch` `Multimodal Learning` `Signal Processing` `Early Exit`
+
+</td>
+<td width="50%" valign="top">
+
+### [Steel Defect Detection](https://github.com/kahledawad2019-netizen/steel-defect-detection)
+
+Six-class surface-defect detection with a five-seed statistical gate and measured PyTorch, ONNX, and TensorRT deployment benchmarks.
+
+- 0.7475 ± 0.0161 mAP@0.5 across five seeds
+- 5.73 ms latency / 174.6 FPS on the measured setup
+- Negative ablation results reported rather than hidden
+
+`YOLOv8` `PyTorch` `ONNX` `TensorRT` `Statistics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PhARMA RAG](https://github.com/kahledawad2019-netizen/pharma-rag)
+
+Grounded drug Q&A using dense and lexical retrieval, reranking, citations, refusal safeguards, and deterministic interaction lookup.
+
+- 506 FDA drug records and 14,955 retrieval chunks
+- 100% drug recall@5
+- 95% recall@5 on a fresh held-out field set
+- 26/26 end-to-end checks documented
+
+`Python` `FAISS` `BM25` `LLM` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### [Hotel Cancellation Prediction](https://github.com/kahledawad2019-netizen/Hotel-Reservation-DataMining)
+
+Seven-member end-to-end analytics project spanning SQL, Python EDA, feature engineering, ensemble modelling, and Power BI.
+
+- 119,208 bookings and 60+ engineered features
+- 92.93% accuracy
+- 0.9495 F1 and 0.9766 ROC-AUC
+- Eight-model comparison with a stacking ensemble
+
+`SQL Server` `Python` `XGBoost` `Power BI` `Team Project`
+
+</td>
+</tr>
+</table>
+
+## Capabilities
+
+- **AI and retrieval:** RAG, GraphRAG, hybrid search, reranking, vector databases, grounded generation, evaluation, agentic systems
+- **Machine and deep learning:** scikit-learn, XGBoost, PyTorch, TensorFlow, YOLO, forecasting, multimodal learning, model optimization
+- **Data and analytics:** Python, SQL/T-SQL, Pandas, NumPy, Power BI, DAX, Power Query, Microsoft Fabric, Excel
+- **Engineering and deployment:** FastAPI, Streamlit, REST APIs, Docker, GitHub Actions, testing, ONNX, TensorRT
+- **Domain:** pharmacy, healthcare data, clinical context, medication information, safety-oriented communication
+
+## Education and credentials
+
+- **Scholarship Diploma in Data Analytics & Applied AI** — Digilians, Egyptian Military Academy in cooperation with Egypt's Ministry of Communications and Information Technology; completed August 2026
+- **Bachelor of Pharmacy** — Mansoura University, 2023
+- **Microsoft Certified: Fabric Analytics Engineer Associate**
+- **Microsoft Certified: Power BI Data Analyst Associate**
+
+## Engineering principles
+
+1. Verify claims against committed evidence.
+2. Report failed experiments and uncertainty honestly.
+3. Treat grounding, refusal, explainability, and data leakage as engineering concerns.
+4. Optimize for reproducibility and practical use—not badge count.
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake.svg">
+  <img alt="Khaled Metwalie's GitHub contribution graph animation" src="https://raw.githubusercontent.com/kahledawad2019-netizen/kahledawad2019-netizen/output/github-snake.svg">
+</picture>
 
 ---
 
-## About
-
-I build end-to-end systems: raw data to trained model to something a person can actually use.
-Trained through the **Digital Egypt Pioneers Initiative (DEPI)** under the Ministry of
-Communications, with a B.Pharm from Mansoura University behind it.
-
-Two things I care about more than headline metrics:
-
-- **Whether a result is real.** Several projects below contain an experiment that failed and is
-  reported anyway — a five-seed study that killed a model I had already built, an augmentation
-  change that made things worse, a re-tiling strategy that regressed. Those are the evidence
-  that the numbers I *do* report were earned.
-- **Domain understanding.** I know what pharmaceutical and clinical data *means*, not just what
-  it says.
-
----
-
-## Featured Projects
-
-### Computer Vision — industrial and scientific inspection
-
-**[Steel Surface Defect Detection](https://github.com/kahledawad2019-netizen/steel-defect-detection)**
-Six-class defect detection on hot-rolled steel (NEU-DET, YOLOv8). Reimplemented three published
-"improved YOLO" variants, then ran a **five-seed statistical gate** — none beat plain YOLOv8n on
-a 180-image test set, so the baseline shipped. 0.7475 ± 0.0161 mAP@0.5 · 174.6 FPS. Includes a
-measured PyTorch/ONNX/TensorRT benchmark and a FastAPI + React inspection app.
-
-**[Fabric Defect Detection](https://github.com/kahledawad2019-netizen/fabric-defect-detection)**
-Twenty-class woven-fabric defect detection (Tianchi), built on a **hash-frozen dataset** and an
-evaluation gate that refuses to tabulate runs whose config or data drifted. Ghost backbone cut
-parameters 43% at equal accuracy; SimAM and WIoU proved to be within noise and are reported that
-way. Largest lever was input representation (+46%), not architecture.
-
-**[Seismic Fault Detection](https://github.com/kahledawad2019-netizen/seismic-fault-detection)**
-3D U-Net for fault segmentation, trained **entirely on synthetic volumes** and applied zero-shot
-to two real surveys (Netherlands F3, Penobscot) — the transfer approach used in production
-geoscience, because real surveys have no dense labels. Test F1 0.877 ± 0.034; over 93% of
-real-data detections form coherent fault surfaces.
-
-**[Motherboard Defect Detection](https://github.com/kahledawad2019-netizen/motherboard-defect-detection)**
-Eleven-class electronics assembly QA — missing, loose and incorrect fasteners, detached fan
-ports, scratches. Test mAP@0.5 0.937 at 47 FPS. Resolution mattered more than model capacity;
-added augmentation regressed and is reported as a negative result.
-
-### Healthcare AI and Analytics
-
-**[Hospital Length of Stay Prediction](https://github.com/kahledawad2019-netizen/Hospital-LOS-DataMining)**
-318,438 patient records across a **22-table 3NF database**, predicting length of stay over 11
-classes. Full data engineering and analytics pipeline with Power BI dashboards.
-
-**[Hotel Booking Cancellation Prediction](https://github.com/kahledawad2019-netizen/Hotel-Reservation-DataMining)**
-Stacking ensemble reaching **92.93% accuracy** over 119,208 records and 60+ engineered features.
-Pipeline: SQL Server → Python EDA → 8-model comparison → Power BI.
-
-**[Pharma Demand Forecasting](https://github.com/kahledawad2019-netizen/pharma-demand-forecasting)**
-Time-series forecasting across 8 drug categories with XGBoost and Random Forest, served through a
-**FastAPI** inference endpoint.
-
-**[Pharma Sales Analysis](https://github.com/kahledawad2019-netizen/Pharma-Sales-Analysis)**
-600,000+ transactions over 6 years, with an ATC-to-plain-English layer so non-pharmacists could
-act on the findings.
-
-### RAG / LLM and Deep Learning
-
-**[Pharmacist RAG Assistant](https://github.com/kahledawad2019-netizen/pharmacist-rag-assistant)**
-Retrieval-augmented drug Q&A grounded in source documents, aimed at the questions pharmacists
-actually field. See also [pharma-rag](https://github.com/kahledawad2019-netizen/pharma-rag), a
-from-scratch RAG pipeline.
-
-**[HYDRA-Net — Counter-UAV Detection](https://github.com/kahledawad2019-netizen/hydra-net)**
-Cascaded multimodal architecture over 128K RF signal segments: **90.07% accuracy**, F1 0.9003,
-ROC-AUC 0.9812, and a **91.9× median latency reduction** via confidence-gated early exit.
-
-**[DeepSign AI — Signature Verification](https://github.com/kahledawad2019-netizen/signature-verification)**
-Offline handwritten signature verification with a Siamese ResNet18 trained under contrastive loss
-on the CEDAR dataset.
-
----
-
-## Technical Skills
-
-**Languages** — Python · SQL · TypeScript
-
-**Machine Learning** — scikit-learn · XGBoost · Random Forest · stacking ensembles ·
-time-series forecasting · class-imbalance handling
-
-**Deep Learning** — PyTorch · Ultralytics YOLO · 3D U-Net · Siamese networks · custom modules
-(attention, IoU losses) · transfer learning · Eigen-CAM explainability
-
-**Computer Vision** — Object detection · semantic segmentation · sliced/tiled inference ·
-dataset auditing and de-duplication
-
-**LLM / RAG** — Retrieval-augmented generation · grounded question answering · document
-retrieval pipelines
-
-**Experimental Method** — Controlled ablations · multi-seed studies with significance testing ·
-dataset freezing by hash · fairness-gated evaluation · negative-result reporting
-
-**Data & BI** — Pandas · NumPy · SQL Server · database design (3NF) · Power BI · Excel
-
-**Deployment** — FastAPI · Streamlit · Docker · Hugging Face Spaces · ONNX / TensorRT export ·
-latency benchmarking
-
----
-
-## Education
-
-| Programme | Institution | Detail |
-|---|---|---|
-| Data Analytics & Applied AI | DEPI / Ministry of Communications & MTC | Digital Egypt Pioneers Initiative |
-| B.Pharm | Mansoura University | GPA 3.15 · May 2023 |
-| Biostatistics & Clinical Research | Mansoura University | Coursework |
-
----
-
-## Current Direction
-
-Applied machine learning where labels are scarce or expensive and the honest question is not
-"what is the best score" but "is this measurement trustworthy enough to act on" — industrial and
-scientific inspection, healthcare analytics, and retrieval-grounded assistants.
-
-Open to Data Science, Applied AI, Computer Vision and Healthcare Analytics roles.
+<div align="center">
+  <strong>Healthcare insight. Production-minded engineering. Measurable impact.</strong><br>
+  <a href="mailto:khaledawad@hotmail.com">Start a conversation</a>
+</div>
